@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi WORLD👋
+My name is Jaime
+I am interested in learning Full Stack Development.
+I enjoy new challenges and the process of learning new skills. 
+In my free time, I usually practice and improve my English. 
+I am a fast learner and I easily develop new skills. I always try to improve every day.
+I liked drumm, I usualy practice five days in the week
 
 <!--
 **JaimeGar99-del/JaimeGar99-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
